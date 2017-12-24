@@ -1,0 +1,2 @@
+# SteamAutoQueuer
+Steam AutoQueuer
